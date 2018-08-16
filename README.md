@@ -1,2 +1,2 @@
 # ijkPlayerX
-基于ijkplayer的视频播放器
+基于ijkplayer的视频播放器.
